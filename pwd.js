@@ -1,3 +1,3 @@
-const pwd = process.cwd();
+//const pwd = process.cwd;
 
-module.exports.pwd = pwd;
+module.exports.pwd = process.cwd;
